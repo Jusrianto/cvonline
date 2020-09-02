@@ -1,0 +1,119 @@
+body {
+    margin: 0px;
+    background-color: rgb(70, 83, 88);
+    color: #eeeeee;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.h1 {
+    margin-bottom: 50px;
+}
+
+h2 {
+    color: rgb(56, 33, 185);
+}
+
+p {
+    line-height: 1, 5;
+}
+
+a {
+    text-decoration: none;
+}
+
+.atribute {
+    float: right;
+    border-radius: 50%;
+    margin-left: 20px;
+    width: 120px;
+    height: 120px;
+}
+
+a:hover {
+    color: white;
+}
+
+.section {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+.wrapper {
+    width: 720px;
+    padding-top: 190px;
+    margin: 0 auto;
+}
+
+.intro {
+    text-align: left;
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+
+.foto-profil {
+    float: left;
+    border-radius: 50%;
+    margin-right: 30px;
+    width: 300px;
+    height: 300px;
+}
+
+.btn {
+    background-color: rgb(56, 33, 185);
+    color: white;
+    padding: 20px 30px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-family: 'Caveat', cursive;
+    display: block;
+    font-size: 250%;
+}
+
+
+#atribute {
+    position: absolute;
+    left: 310px;
+    top: 150px;
+}
+
+.skill-row {
+    text-align: left;
+    margin-bottom: 100px;
+    width: 720px;
+}
+
+.ux-skill-img {
+    float: left;
+    margin-left: 30px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.web-skill-img {
+    float: right;
+    margin-right: 30px;
+    width: 200px;
+    height: 200px;
+}
+
+.cta-text {
+    width: 65%;
+    margin: 0 auto 12px auto;
+}
+
+.social-links {
+    margin: 0 12px 20px;
+    color: rgb(36, 38, 172);
+}
+
+.footer {
+    background-color: rgb(80, 88, 88);
+    padding: 20px 0 15px;
+}
